@@ -1,0 +1,6 @@
+{
+  "name": "WriterMind AI",
+  "description": "A smart writing companion for OpenOffice Writer. Leverage Gemini AI to generate, edit, and proofread documents with direct .odt export and extension support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
